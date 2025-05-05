@@ -47,7 +47,3 @@ Se quiser entrar em contato para colaborações, oportunidades ou sugestões:
 Este projeto está em constante evolução! Novas funcionalidades, animações e melhorias serão adicionadas com o tempo.
 
 ---
-
-### ✅ Licença
-
-Este projeto está sob a licença MIT. Sinta-se à vontade para utilizar como base e contribuir!
