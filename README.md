@@ -32,15 +32,6 @@ Você pode acessar o portfólio diretamente através deste repositório ou visua
 
 🔗 [Visualizar online (GitHub Pages ou outro link)](https://seu-link-aqui)
 
-## 📬 Contato
-
-Se quiser entrar em contato para colaborações, oportunidades ou sugestões:
-
-- **Email:** seuemail@exemplo.com
-- **LinkedIn:** [Seu Perfil](https://www.linkedin.com/in/seu-perfil)
-- **GitHub:** [carlosroberto777](https://github.com/carlosroberto777)
-
----
 
 ## 📌 Observações
 
