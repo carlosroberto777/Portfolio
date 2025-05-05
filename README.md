@@ -23,14 +23,7 @@ Este é o meu portfólio pessoal desenvolvido para apresentar minhas habilidades
 ### Página Inicial
 ![Página Inicial](img/Captura%20de%20tela%202025-05-04%20213046.png)
 
-### Projetos
-*(Imagem representativa de projetos futuros e atuais)*
 
-## 📁 Como Visualizar o Projeto
-
-Você pode acessar o portfólio diretamente através deste repositório ou visualizar uma versão online (caso tenha publicado, inclua aqui):
-
-🔗 [Visualizar online (GitHub Pages ou outro link)](https://seu-link-aqui)
 
 
 ## 📌 Observações
